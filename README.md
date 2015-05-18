@@ -1,7 +1,7 @@
 # express-session-json-store
 JSON file sessions store for Express
 
-forked [https://github.com/darul75/express-session-json] for **NOT** saving the json file on every request (instead: having a timeout and write the file if there are changes).
+forked & rebuilt [express-session-json](https://github.com/darul75/express-session-json) for **NOT** saving the json file on every request (instead: having a timeout and write the file if there are changes).
 
 
 ## Usage

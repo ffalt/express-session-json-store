@@ -1,0 +1,31 @@
+{
+  "name": "express-session-json-store",
+  "version": "0.0.1",
+  "description": "JSON file sessions store for Express",
+  "keywords": [
+	"connect",
+	"json",
+	"file",
+	"session",
+	"express"
+  ],
+  "author": {
+	"name": "ffalt",
+	"email": "ffalt@datenfreunde.com"
+  },
+  "bugs": {
+	"url": "http://github.com/ffalt/express-session-json-store/issues"
+  },
+  "engines": {
+	"node": ">=0.8.15"
+  },
+  "directories": {
+	"lib": "lib"
+  },
+  "main": "./lib/express-session-json-store",
+  "dependencies": {},
+  "repository": {
+	"type": "git",
+	"url": "http://github.com/ffalt/express-session-json-store.git"
+  }
+}

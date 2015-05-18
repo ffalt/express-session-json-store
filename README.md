@@ -29,7 +29,7 @@ Example for express < 4:
 
 ```javascript
 var express = require('express'),
-    JsonStore = require('express-session-json')(express.session);
+    JsonStore = require('express-session-json-store')(express.session);
 
 var app = express();
 app.configure(function(){    

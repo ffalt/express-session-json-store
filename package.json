@@ -16,6 +16,9 @@
   "bugs": {
 	"url": "http://github.com/ffalt/express-session-json-store/issues"
   },
+  "directories": {
+	"lib": "lib"
+  },
   "engines": {
 	"node": ">=0.8.15"
   },

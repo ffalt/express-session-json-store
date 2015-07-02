@@ -19,9 +19,6 @@
   "engines": {
 	"node": ">=0.8.15"
   },
-  "directories": {
-	"lib": "lib"
-  },
   "main": "./lib/express-session-json-store",
   "dependencies": {},
   "repository": {
